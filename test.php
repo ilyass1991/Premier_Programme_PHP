@@ -20,7 +20,7 @@
         </ul>
         
         <?php
-           echo 'Cette phrase est aussi générée par PHP.'<br/>
+           echo 'Cette phrase est aussi générée par PHP. <br />'
     phpinfo();
         ?>
     </body>
